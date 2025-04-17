@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Sistema de compra e venda/1.0.0": {
+        "runtime": {
+          "Sistema de compra e venda.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sistema de compra e venda/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

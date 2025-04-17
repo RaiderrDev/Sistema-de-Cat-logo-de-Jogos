@@ -1,0 +1,14 @@
+C:\Users\samue\Desktop\ESTUDOS C#\exercicios c#\Sistema de compra e venda\bin\Debug\net8.0\Sistema de compra e venda.exe
+C:\Users\samue\Desktop\ESTUDOS C#\exercicios c#\Sistema de compra e venda\bin\Debug\net8.0\Sistema de compra e venda.deps.json
+C:\Users\samue\Desktop\ESTUDOS C#\exercicios c#\Sistema de compra e venda\bin\Debug\net8.0\Sistema de compra e venda.runtimeconfig.json
+C:\Users\samue\Desktop\ESTUDOS C#\exercicios c#\Sistema de compra e venda\bin\Debug\net8.0\Sistema de compra e venda.dll
+C:\Users\samue\Desktop\ESTUDOS C#\exercicios c#\Sistema de compra e venda\bin\Debug\net8.0\Sistema de compra e venda.pdb
+C:\Users\samue\Desktop\ESTUDOS C#\exercicios c#\Sistema de compra e venda\obj\Debug\net8.0\Sistema de compra e venda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\Desktop\ESTUDOS C#\exercicios c#\Sistema de compra e venda\obj\Debug\net8.0\Sistema de compra e venda.AssemblyInfoInputs.cache
+C:\Users\samue\Desktop\ESTUDOS C#\exercicios c#\Sistema de compra e venda\obj\Debug\net8.0\Sistema de compra e venda.AssemblyInfo.cs
+C:\Users\samue\Desktop\ESTUDOS C#\exercicios c#\Sistema de compra e venda\obj\Debug\net8.0\Sistema de compra e venda.csproj.CoreCompileInputs.cache
+C:\Users\samue\Desktop\ESTUDOS C#\exercicios c#\Sistema de compra e venda\obj\Debug\net8.0\Sistema de compra e venda.dll
+C:\Users\samue\Desktop\ESTUDOS C#\exercicios c#\Sistema de compra e venda\obj\Debug\net8.0\refint\Sistema de compra e venda.dll
+C:\Users\samue\Desktop\ESTUDOS C#\exercicios c#\Sistema de compra e venda\obj\Debug\net8.0\Sistema de compra e venda.pdb
+C:\Users\samue\Desktop\ESTUDOS C#\exercicios c#\Sistema de compra e venda\obj\Debug\net8.0\Sistema de compra e venda.genruntimeconfig.cache
+C:\Users\samue\Desktop\ESTUDOS C#\exercicios c#\Sistema de compra e venda\obj\Debug\net8.0\ref\Sistema de compra e venda.dll
