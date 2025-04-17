@@ -157,7 +157,7 @@ class Clientes
         }
     }
 
-    //metodo simples (sem validação) pra cadastrar clientes
+    //metodo pra cadastrar clientes
     public static void CadastrarCliente()
     {
         Console.WriteLine("Digite seu nome:");
